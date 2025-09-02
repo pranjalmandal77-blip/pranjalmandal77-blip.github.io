@@ -1,0 +1,22 @@
+
+---
+title: "Pranjal Mandal"
+output: html_document
+---
+# Pranjal Mandal
+
+Hi! I am a UT Austin student majoring in Computational Biology and Statistics & Data Science. I enjoy data projects, computing data sets, and building small tools that make classwork easier.
+
+[My GitHub](https://github.com/pranjalmandal77-blip)
+
+![My Image](IMG_8947.jpg)
+
+## A few favorites
+- Reading about microbes and  working on bioinformatics
+- Building small R/Python scripts
+
+```{r}
+# Exact build time:
+Sys.time()
+```
+
